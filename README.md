@@ -9,7 +9,7 @@ Is a CFG for CSGO to automatically set your settings to play. ( Execept Graphics
 Not exactly, but you can try it and decide for yourself it you want it or NEED it. :P
 
 ## Instructions:
-1. Download the proyect by going [here](../../releases).
+1. Download the proyect by going [here](../../releases) or [from mega](https://mega.nz/#F!PggQCKSI!13NWNAGvXvwu_fzZAzBNhg).
 2. Place the CFGs into your CSGO CFG folder ( ..\steamapps\common\Counter-Strike Global Offensive\csgo\cfg ).
 3. Edit it by changing the Sensitivity, Personal Color, Hud Color... etc in other to adapt it to your liking.
 4. Launch CSGO and press F10 to open the console. Type in "exec autoexec" or "Autoexec" ( CFG needs to be re-executed in order to properly work ).
