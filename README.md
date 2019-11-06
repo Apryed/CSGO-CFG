@@ -1,0 +1,2 @@
+# CSGO-CFG
+CFG for CSGO
