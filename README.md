@@ -27,52 +27,88 @@ Not exactly, but you can try it and decide for yourself it you want it or NEED i
 
 # Features:
 Console enabled.
+
 Music removed and 10 Sec bomb to min so you know it.
+
 Matchmaking Ping search to 25.
+
 Mouse Raw Input and No acceleration by default.
+
 Small Net Graph.
+
 Enable friends to follow you on your games.
+
 Killcam disabled.
+
 Competitive Rates.
+
 Sounds won't be downloaded when entering a server.
+
 FPS unlimited except on Menu.
+
 3 Crosshair types.
+
 Invitations to play will only be able if on Main menu.
+
 Game Instructor Disabled.
 
-## Keys                                                                  
-                                                                          
+## Keys
+
 F1         : Toogles Crosshair for better nades.
+
 F2         : Change Crosshair.
+
 F3         : Toogle Instructor.
+
 F10        : Toogle Console.
+
 PGUP       : Toogle IgnoreMsg.
              Status: Broadcast, Team/Broadcast, All chat, Accept all.
+
 T          : Change to defuse Mode. Hold E and Swing your mouse to spin.
+
 PGDN       : Toogle IgnoreRadar.
+
 BlockMayus : Toogle Weapon Side.
+
 F          : Jump Throw - Simply Select Nade, Charge to Throw and press F.
+
 H          : Inspect Weapon.
+
 L          : Enables X-Ray on Demo playback.
+
 Z          : Radio Commands - Go, Fall Back, Stick Together Team, Hold This Position, Follow Me.
+
 X          : Radio Commands - Enemy Spotted, Need Backup, You Take the Point, Sector Clear, I'm in Position.
+
 C          : High Jump - Jump as High as CS is posible.
+
 V          : Clean everything - Console, blood, bullet holes... everything.
+
 N          : Mute voices.
+
 KP_Enter   : Change Radar size.
+
 Left ALT   : Radio Commands - Affirmative/Roger, Negative, Cheer!, Compliment, Thanks.
+
 Mouse3     : Basic Radio Commands - Affirmative/Roger, Negative, Cheer!, Hold This Position, Follow Me, Thanks.
+
 
 
 ## Commands
 
 Autoexec   : Runs Autoexec config.
+
 Training   : Runs Training config.
+
 HelpMe     : Displays this infobox. ( Requires HelpMe.cfg )
+
 Clean      : Clean everything cleanable.
+
 Moded      : Displays CFG last modification date and time on console
+
 MM_MaxPing : Display Max Search ping for MM. Also shows original command to modify it.
 
 ### Remember
-You can edit the keys by editing the CFG. Any changes through Console will be wipe out, so if you make any, just edit the Autoexec CFG and edit the values, or add it.
+You can edit the keys by editing the CFG. Any changes through Console will be wipe out, so if you make any, just edit the values in the Autoexec CFG, or add it.
 Don't forget to edit the HelpMe.cfg if you modify any Bind.
