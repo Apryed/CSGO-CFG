@@ -5,6 +5,9 @@ Is a CFG for CSGO to automatically set your settings to play. ( Execept Graphics
 ## Do I need it?
 Not exactly, but you can try it and decide for yourself it you want it or NEED it. :P
 
+## If you like it...
+Remember to leave a Star here and a comment on my profile. It will be much apreciated.
+
 ## Instructions:
 1. Download the proyect by going [here](../../releases) or [from mega](https://mega.nz/#F!PggQCKSI!13NWNAGvXvwu_fzZAzBNhg).
 2. Place the CFGs into your CSGO CFG folder ( ..\steamapps\common\Counter-Strike Global Offensive\csgo\cfg ).
