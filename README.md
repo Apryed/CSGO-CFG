@@ -109,6 +109,10 @@ Moded      : Displays CFG last modification date and time on console
 
 MM_MaxPing : Display Max Search ping for MM. Also shows original command to modify it.
 
+## Extra Commands
+
++Fastswitch : Change to knife when pressed and hold. Release to go back.
+
 ### Remember
 You can edit the keys by editing the CFG. Any changes through Console will be wipe out, so if you make any, just edit the values in the Autoexec CFG, or add it.
 Don't forget to edit the HelpMe.cfg if you modify any Bind.
