@@ -118,6 +118,7 @@ Don't forget to edit the HelpMe.cfg if you modify any Bind so you keep track of 
 Since : [Release 1.1.5](../../releases/tag/1.1.5)
 
 Defuse Mode
+
 T          : Change to defuse Mode. Hold E and Swing your mouse to spin.
 Unusable since [CSGO Update 6/22/2020](https://blog.counter-strike.net/index.php/2020/06/30600/).
 
