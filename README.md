@@ -123,6 +123,7 @@ T          : Change to defuse Mode. Hold E and Swing your mouse to spin.
 Unusable since [CSGO Update 6/22/2020](https://blog.counter-strike.net/index.php/2020/06/30600/).
 
 Game Instructor Bomb location on Smoke
+
 F3         : Toogle Instructor.
 Unusable since couple of CSGO updates. ( Tried to search for it, but no luck )
 
