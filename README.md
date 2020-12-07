@@ -54,40 +54,54 @@ Game Instructor Disabled.
 
 ## Keys
 
-F1         : Toogles Crosshair for better nades.
+F1            : Toogles Crosshair for better nades.
 
-F2         : Change Crosshair.
+F2            : Change Crosshair.
 
-F10        : Toogle Console.
+F10           : Toogle Console.
 
-PGUP       : Toogle IgnoreMsg.
-             Status: Broadcast, Team/Broadcast, All chat, Accept all.
+F3            : Toggles T crosshair.
 
-PGDN       : Toogle IgnoreRadar.
+\             : Ping Player.
 
-BlockMayus : Toogle Weapon Side.
+PGUP          : Toogle IgnoreMsg.
+                Status: Broadcast, Team/Broadcast, All chat, Accept all.
 
-F          : Jump Throw - Simply Select Nade, Charge to Throw and press F.
+PGDN          : Toogle IgnoreRadar.
 
-H          : Inspect Weapon.
+BlockMayus    : Toogle Weapon Side.
 
-L          : Enables X-Ray on Demo playback.
+F             : Jump Throw - Simply Select Nade, Charge to Throw and press F.
 
-Z          : Radio Commands - Go, Fall Back, Stick Together Team, Hold This Position, Follow Me.
+H             : Inspect Weapon.
 
-X          : Radio Commands - Enemy Spotted, Need Backup, You Take the Point, Sector Clear, I'm in Position.
+L             : Enables X-Ray on Demo playback.
 
-C          : High Jump - Jump as High as CS is posible.
+Z             : Radio Commands - Go, Fall Back, Stick Together Team, Hold This Position, Follow Me.
 
-V          : Clean everything - Console, blood, bullet holes... everything.
+X             : Radio Commands - Enemy Spotted, Need Backup, You Take the Point, Sector Clear, I'm in Position.
 
-N          : Mute voices.
+C             : High Jump - Jump as High as CS is posible.
 
-KP_Enter   : Change Radar size.
+V             : Clean everything - Console, blood, bullet holes... everything.
 
-Left ALT   : Radio Commands - Affirmative/Roger, Negative, Cheer!, Compliment, Thanks.
+KP_END        : He Grenade.
 
-Mouse3     : Basic Radio Commands - Affirmative/Roger, Negative, Cheer!, Hold This Position, Follow Me, Thanks.
+KP_DOWNARROW  : FlashBang.
+
+KP_PGDN       : Smoke Grenade.
+
+KP_LEFTARROW  : Decoy.
+
+KP_RIGHTARROW : Molotov-Incendiary.
+
+N             : Mute voices.
+
+KP_Enter      : Change Radar size.
+
+Left ALT      : Radio Commands - Affirmative/Roger, Negative, Cheer!, Compliment, Thanks.
+
+Mouse3        : Basic Radio Commands - Affirmative/Roger, Negative, Cheer!, Hold This Position, Follow Me, Thanks.
 
 
 
