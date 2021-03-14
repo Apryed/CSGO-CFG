@@ -11,7 +11,7 @@ Remember to leave a Star here and a comment on my profile. It will be much aprec
 ## Instructions:
 1. Download the configurations by going [here](../../releases/latest) or [from mega](https://mega.nz/#F!PggQCKSI!13NWNAGvXvwu_fzZAzBNhg).
 2. Place the CFGs into your CSGO CFG folder ( ..\steamapps\common\Counter-Strike Global Offensive\csgo\cfg ).
-3. Edit it by changing the Sensitivity, Personal Color, Hud Color... etc in other to adapt it to your liking.
+3. Edit it by changing the Sensitivity, Personal Color, Hud Color... etc in other to adapt it to your liking ( on Personal_Settings.cfg ).
 4. Launch CSGO and press F10 to open the console. Type in "exec autoexec" or "Autoexec" ( CFG needs to be re-executed in order to properly work ).
 5. You can either start playing or utilize the follow Launch options ( CSGO need to be restarted in other to make them work ):
 
