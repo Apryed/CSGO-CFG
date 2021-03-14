@@ -107,17 +107,19 @@ Mouse3        : Basic Radio Commands - Affirmative/Roger, Negative, Cheer!, Hold
 
 ## Commands
 
-Autoexec   : Runs Autoexec config.
+Autoexec       : Runs Autoexec config.
 
-Training   : Runs Training config.
+Training       : Runs Solo Training config.
 
-HelpMe     : Displays this infobox. ( Requires HelpMe.cfg )
+TeamTraining   : Runs Team Training config. ( Remember to change sv_steamgroup to your own or sv_steamgroup_exclusive to 0 )
 
-Clean      : Clean everything cleanable.
+HelpMe         : Displays this infobox. ( Requires HelpMe.cfg )
 
-Moded      : Displays CFG last modification date and time on console
+Clean          : Clean everything cleanable.
 
-MM_MaxPing : Display Max Search ping for MM. Also shows original command to modify it.
+Moded          : Displays CFG last modification date and time on console
+
+MM_MaxPing     : Display Max Search ping for MM. Also shows original command to modify it.
 
 ## Extra Commands
 
