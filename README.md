@@ -1,6 +1,6 @@
 # A bit of Knowleadge
 ## What is this?
-Is a CFG ( Configuration ) for CSGO to automatically set your settings to play. ( Execept Graphics Settings ) Mostly for MM Competitive but for other types of competitions is allowed to. - Report back if there is something illegal. ( I think Jumpthrow bind is illegal in some competitons, but I really don't know. )
+Is a CFG ( Configuration ) for CSGO to automatically set your settings to play. ( Execept Graphics Settings ) Mostly for MM Competitive but for other types of competitions is allowed too. - Report back if there is something illegal. ( I think Jumpthrow bind is illegal in some competitons, but I really don't know. )
 
 ## Do I need it?
 Not exactly, but you can try it and decide for yourself it you want it or NEED it. :P
