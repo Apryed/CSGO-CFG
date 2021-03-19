@@ -26,6 +26,9 @@ Remember to leave a Star here and a comment on my profile. It will be much aprec
 -language : Change language of Counter-Strike to any other available. Ex: -language spanish - Recomended if you want Steam in one language and CS in another.
 
 # Features:
+Backup your old CFG. ( Remember to rename it after loading autoexec for the first time - In order to keep it )
+[ Look it up in ".\Steam\userdata<YOURID>\730\local\cfg" - Check your ID on SteamRep.com ( steam3ID the long number ) ]
+
 Console enabled.
 
 Music removed and 10 Sec bomb to min so you know it.
@@ -112,6 +115,8 @@ Autoexec       : Runs Autoexec config.
 Training       : Runs Solo Training config.
 
 TeamTraining   : Runs Team Training config. ( Remember to change sv_steamgroup to your own or sv_steamgroup_exclusive to 0 )
+
+AntiTraining   : Runs Anti-Training config to revert all training commands to default.
 
 HelpMe         : Displays this infobox. ( Requires HelpMe.cfg )
 
