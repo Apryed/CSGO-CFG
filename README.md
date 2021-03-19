@@ -27,7 +27,7 @@ Remember to leave a Star here and a comment on my profile. It will be much aprec
 
 # Features:
 Backup your old CFG. ( Remember to rename it after loading autoexec for the first time - In order to keep it )
-[ Look it up in ".\Steam\userdata<YOURID>\730\local\cfg" - Check your ID on SteamRep.com ( steam3ID the long number ) ]
+ [ Look it up in ".\Steam\userdata<YOURID>\730\local\cfg" - Check your ID on SteamRep.com ( steam3ID the long number ) ]
 
 Console enabled.
 
